@@ -1,0 +1,141 @@
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  height: 150px;
+  background-color: #f2f2f2fb;
+  position:sticky;
+  z-index: 150;
+  border-bottom: #1616161e 5px solid;
+  box-shadow: rgba(136, 135, 135, 0.829) 10px 10px 10px;
+}
+
+h1{
+  color: transparent;
+}
+
+h2{
+  color: transparent;
+}
+
+
+nav .nav-item {
+  font-size: 1.05rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p-link{
+  color:#592851;
+}
+
+.sec-carrousel{
+  margin-top: -60px;
+}
+.carousel-inner{
+  object-fit: cover
+}
+
+.formulario{
+  padding: 20px;
+  width: 85%;
+  background-color: #f2f2f2fb;
+  border-radius: 10px;
+  border: solid 1px;
+  position: relative;
+  margin-top: -10px;
+  left: 50px ;
+  bottom: 20px;
+}
+
+.inm-dest{
+  color: #592851;
+}
+
+.card-border{
+  border: solid 2px #f2f2f233;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: all ease-out 0.2s;
+}
+
+.card-border:hover{  
+transform: scale(1.05);
+}
+
+
+
+.bs-callout{
+  padding: 20px;
+  width: 85%;
+  background-color: #faf6f69f;
+  border-radius: 10px;
+  border: solid 1px;
+  position: relative;
+  margin-top: 60px;
+  padding: 30px;
+  left: 50px ;
+ bottom: 10px; ;
+}
+
+main {
+  
+  background-image: url(https://img.freepik.com/psd-gratis/fondo-textura-madera-moderna_1022-74.jpg?w=740&t=st=1661532750~exp=1661533350~hmac=f002478f33b7e4327ce7ec9be6a1cdf46a4ba0c66dc5425ec5a39dddfa932bda);
+  background-size: 100% auto;
+  
+}
+
+
+.contacto{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-block-end: 10px;
+
+}
+.form-consulta{
+  border: solid 2px #592851;
+  border-radius: 5px;
+  background-color: #faf5f585;
+  
+}
+
+.form-label{
+  margin-bottom: 10px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+ 
+.card-contacto{
+  border: solid 2px #592851;
+  background-color:#fffbfb5b;
+  
+}
+
+.sec-serv{
+  margin-top: -40px;
+}
+.img-serv{
+  border-radius: 30px;
+}
+.p-serv{
+  border: solid 3px #592851;
+  border-radius: 25px;
+  background-color: #8886860e;
+  
+}
+
+.img-nos{
+  margin-top: -25px;
+  border-radius: 15px;
+}
+
+footer {
+  
+  color: #f2f2f2;
+  background-image: url(https://img.freepik.com/foto-gratis/concepto-fondo-estudio-fondo-sala-estudio-purpura-degradado-oscuro-producto_1258-55288.jpg?w=900&t=st=1661537842~exp=1661538442~hmac=e28999b614edc6d72bd989928c405a4aeeee6b821facd8193b7bbc1e7a1b378b);
+}
+
+
